@@ -91,6 +91,5 @@ public class Qes7 {
         
         // 全体の平均点の出力する
         System.out.printf("全体の平均点は%.2f点です。\n", overallAverage);
-        
 	}
 }
