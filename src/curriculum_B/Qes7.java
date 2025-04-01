@@ -74,7 +74,7 @@ public class Qes7 {
         double avgScience = totalScience / stu;
         //各社会の平均点数を格納する変数を宣言する
         double avgSocial = totalSocial / stu;
-        
+      
         //各英語の平均点の出力する
         System.out.printf("英語の平均点は%.2f点です。\n", avgEnglish);
         //各数学の平均点の出力する
