@@ -16,4 +16,5 @@ public class Main {
 		//printメソッドを呼び出す
 		person1.print();
 	}
+	
 }

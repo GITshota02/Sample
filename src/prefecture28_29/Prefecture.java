@@ -39,5 +39,4 @@ public class Prefecture {
     	//以下の文字列を返す
         return "都道府県名：" + name + "\n県庁所在地：" + capital + "\n面積：" + area + "km²";
     }
-
 }

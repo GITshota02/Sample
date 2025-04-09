@@ -30,5 +30,4 @@ public class Main {
 		//person2がBicycleを購入する、person2がBicycleを購入したことを表示する
 		person2.buy(bicycle);
 	}
-
 }

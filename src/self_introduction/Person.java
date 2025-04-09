@@ -1,7 +1,6 @@
 package self_introduction;
 
 public class Person {
-
 	// インスタンスフィールドを定義
 	//名前を定義する
 	private String name;

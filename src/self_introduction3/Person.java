@@ -48,5 +48,4 @@ public class Person {
 		//合計人数を出力する
 		System.out.println("合計" + Person.count + "人です");
 	}
-
 }

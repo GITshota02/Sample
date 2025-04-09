@@ -63,5 +63,4 @@ public class Person {
 		//自転車を購入した人物の名前を表示する
 		System.out.println(bicycle.getOwner() + "が購入しました");
 	}
-
 }

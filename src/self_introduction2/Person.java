@@ -11,7 +11,6 @@ public class Person {
 	public double weight;
 	//カウントを定義しつつ初期化する
 	public static int count = 0;
-
 	//コンストラクタを定義しインスタンスフィールドに値をセットする
 	Person(String name, int age, double height, double weight){
 		//コンストラクタで名前をセットする

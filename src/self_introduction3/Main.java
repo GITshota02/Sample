@@ -14,5 +14,4 @@ public class Main {
 		//合計人数を出力する
 		Person.printCount();
 	}
-
 }

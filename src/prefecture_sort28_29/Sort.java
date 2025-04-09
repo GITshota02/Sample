@@ -30,7 +30,7 @@ public class Sort {
         //群馬県のインスタンスを作成する
         new Prefecture("群馬県", "前橋市", 6362)
     };
-
+    
     // 昇順でソートするメソッドを作成する
     public static void sortAscending(int[] indices) {
     	//配列を昇順にソートする
