@@ -13,4 +13,5 @@ public class Vehicle {
 		//ownerに代入する
 		this.owner = owner;
 	}
+	
 }
